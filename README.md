@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ### ✨I'm Ashleigh Chevannes, Junior Full-Stack Web Developer✨
-- 🌱 I’m currently building a website to showcase what I've learned from my recently completed coding bootcamp.
+- 🌱 I’m currently building a website promoting my businesses to showcase my front-end skills gained from coding bootcamp.
 - 👀 I’m looking to collaborate on any cool ideas!
 - 📫 Reach me at nxteracoding@gmail.com
 <!--
