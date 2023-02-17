@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## I'm Ashleigh Chevannes, Full-Stack Web Developer.
+## ✨I'm Ashleigh Chevannes, Junior Full-Stack Web Developer✨
 
 - 📫 Reach me at nxteracoding@gmail.com
 <!--
