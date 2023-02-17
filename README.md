@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm Ashleigh Chevannes, Full-Stack Web Developer.
 
+- 📫 Reach me at nxteracoding@gmail.com
 <!--
 **nxtera/nxtera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
