@@ -1,6 +1,7 @@
 ## Hi there 👋 
 ### ✨I'm Ashleigh Chevannes, Junior Full-Stack Web Developer✨
-
+- 🌱 I’m currently building a website to showcase what I've learned from my recently completed coding bootcamp.
+- 👀 I’m looking to collaborate on any cool ideas!
 - 📫 Reach me at nxteracoding@gmail.com
 <!--
 **nxtera/nxtera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
