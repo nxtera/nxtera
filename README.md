@@ -1,5 +1,6 @@
 ## Hi there 👋 
 ### ✨I'm Ashleigh Chevannes, Junior Full-Stack Web Developer✨
+- 🎓 Recent graduate from Full Stack Web Development programme from the University of Birmingham.
 - 🌱 I’m currently building a website promoting my businesses to showcase my front-end skills gained from coding bootcamp.
 - 👀 I’m looking to collaborate on any cool ideas!
 - 📫 Reach me at nxteracoding@gmail.com
